@@ -141,7 +141,11 @@
 
 ## 2. 安装
 
-APK：
+最新 APK（GitHub Releases）：
+
+<https://github.com/GJCZX123/zhihua/releases/latest>
+
+本地构建输出：
 
 ```
 dist/ZhiHua-1.2.0.apk
