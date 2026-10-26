@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">知花</string>
+    <string name="app_tagline">每一笔，都知道去向</string>
+    <string name="notification_service_label">知花 · 银行通知记账</string>
+    <string name="accessibility_service_label">知花 · 付款前提醒</string>
+    <string name="accessibility_desc">在你选择监控的消费 App 收银台、扫码付款或先用后付页面显示确认提醒；只读取当前页面文字，不上传、不保存页面内容。</string>
+    <string name="channel_capture">自动记账</string>
+    <string name="channel_capture_desc">银行/微信/支付宝消费入账后的轻提示</string>
+</resources>

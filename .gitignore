@@ -1,0 +1,36 @@
+# 忽略构建产物、签名材料与本机工具
+build/
+dist/
+keystore/
+.tools/
+.taste-skill/
+.gradle/
+.idea/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.idsig
+local.properties
+
+# 本机生成的截图/临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 只保留开源项目文件；根目录还有本机其他工程，不能误提交
+*
+!.gitignore
+!.gitattributes
+!LICENSE
+!README.md
+!使用说明.md
+!CONTRIBUTING.md
+!build.ps1
+!app/
+!app/**
+!docs/
+!docs/**
+!tools/
+!tools/SelfTest.java
